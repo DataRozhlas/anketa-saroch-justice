@@ -7,9 +7,12 @@ options: [noheader, nopic] #wide, noheader (, nopic)
 Státní zástupce, který kauzu Čapí hnízdo dozoruje, změnil na případ právní názor. S takovou od minulého pondělí odráží dotazy novinářů mluvčí Městského státního zastupitelství v Paze Aleš Cimbala. Jaroslav Šaroch původně stíhání Babiše, jeho rodiny i spolupracovníků hájil jako důvodné. Co tedy jeho nynější tah znamená? A proč státní zastupitelství svůj postup jasně a srozumitelně nevysvětlí? 
 Server iROZHLAS.cz se v souvislosti s aktuálním vývojem zeptal českých osobností z oblasti justice na následující dotazy:
 
-1.	Jaký signál Městské státní zastupitelství v Praze svým počínáním vyslalo směrem k veřejnosti?
-
-2.  Neměl by se případ, vzhledem ke své citlivosti a dosud veřejně známým skutečnostem, dostat před soud, aby do něj byl veřejný vhled?
+<embed>
+<h4>
+  <b>1. Jaký signál Městské státní zastupitelství v Praze svým počínáním vyslalo směrem k veřejnosti?</b><br><br>
+  <b>2.	Neměl by se případ, vzhledem ke své citlivosti a dosud veřejně známým skutečnostem, dostat před soud, aby do něj byl veřejný vhled?</b>
+</h4>
+</embed>
 
 Ve velké anketě server iROZHLAS.cz oslovil přes 130 osobnostní české justice. Výsledek? Sešla se necelá stovka reakcí, z čehož skutečnou odpověď zaslalo celkem 55 respondentů.
 
@@ -25,7 +28,7 @@ Na tom, že jednání státního zastupitelství – které informovalo o koncep
 „Je to veřejně sledovaný případ, v němž je komunikace klíčová věc. Na tom se tvoří důvěryhodnost státního zastupitelství. Bohužel to samozřejmě má dopad na důvěryhodnost české justice. Justice musí tyto typy případů komunikačně zvládnout. Nesmí podlehnout tlakům ani ulice, ani vlády a ani nikoho dalšího,“ řekl Šimka.
 
 <embed><img style="width: 100%;" src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/capi_hnizdo_12_181101-173514_mda.jpg?itok=lrSir06P">
-<em>Farma Čapí hnízdo, foto Michalea Danelová/iROZHLAS.cz</em>
+<em>Farma Čapí hnízdo, foto: Michaela Danelová/iROZHLAS.cz</em>
 </embed>
 
 Smířlivější byla například soudkyně Městského soudu v Praze a prezidentka Soudcovské unie Daniela Zemanová. „Informování o trestním stíhání premiéra je výjimečně náročné, z mého pohledu není na místě kritizovat Městské státní zastupitelství v Praze za zveřejnění informace o předání věci vedoucímu státnímu zástupci,“ popsala. Sama však nakonec připustila, že daný postup mohl být matoucí.
@@ -64,7 +67,7 @@ Redakce v anketě oslovila desítky zástupců tuzemské justice. Komentář odm
 Ze stejného důvodu odmítl odpovědět také nejvyšší státní zástupce Pavel Zeman. A vyjadřovat se nechtěl ani bývalý ministr spravedlnosti Robert Pelikán. „Já už se k podobným věcem veřejně nevyjadřuji,“ napsal ve zprávě.
 
 <embed><img style="width: 100%;" src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/vyznamenani_17_181029-011312_mda.jpg?itok=lTX9bjiN">
-<em>Monika Babišová a Andrej Babiš, foto Michalea Danelová/iROZHLAS.cz</em>
+<em>Monika Babišová a Andrej Babiš, foto: Michaela Danelová/iROZHLAS.cz</em>
 </embed>
 
 Nemnoho reakcí přišlo také z akademické obce. To byl případ třeba vedoucího katedry trestního práva Právnické fakulty Univerzity Karlovy. „Já jsem solitér a hromadné ankety nechávám stranou,“ reagoval Jiří Jelínek na e-mail s dotazy.
