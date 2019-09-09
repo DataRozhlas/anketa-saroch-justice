@@ -2,9 +2,9 @@
 import { h, render } from "preact";
 /** @jsx h */
 
-let host = "https://data.irozhlas.cz/anketa-cssd-smarda";
+let host = "https://data.irozhlas.cz/anketa-saroch-justice";
 if (window.location.hostname == "localhost") {
-  host = "http://localhost/anketa-cssd-smarda";
+  host = "http://localhost/anketa-saroch-justice";
 }
 
 function onLoad(e) {
@@ -13,7 +13,7 @@ function onLoad(e) {
     <div id="anketa">
       {data.map(el => (
         <div className="respondent">
-          <img className="portret" src={"https://samizdat.blob.core.windows.net/storage/anketa-cssd/" + el.f} alt={el.p} />
+          <img className="portret" src={host + "/foto/" + el.f} alt={el.p} />
           <div className="bio">
             <div className="jmeno">{`${el.j} ${el.p}`}</div>
             <div className="vek">{el.k} {el.s}</div>
