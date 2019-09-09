@@ -1,4 +1,4 @@
-title: "Chaotické, nesrozumitelné, poškozující. Kauza Čapí hnízdo pohledem 55 osobností české justice"
+title: "‚Chaotické, nesrozumitelné, poškozující.‘ Dění v kauze Čapí hnízdo očima 55 osobností české justice"
 perex: "Není větší kauzy, která by hýbala současnou politickou scénou v Česku. Řeč je o dění kolem Čapího hnízda, které minulý týden – po zprávě Deníku N, že se dozorující státní zástupce Jaroslav Šaroch chystá zastavit stíhání šestice obviněných v čele s premiérem Andrejem Babišem (ANO) – nabralo na obrátkách. Server iROZHLAS.cz proto oslovil významné zástupce tuzemské justice, aby přiblížili svůj pohled na politicky citlivý případ. Odpovědi soudců, státních zástupců, právníků, akademiků i veřejných funkcionářů přinášíme ve velké anketě."
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
