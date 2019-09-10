@@ -1,10 +1,11 @@
-title: "‚Chaotické, nesrozumitelné, poškozující.‘ Dění v kauze Čapí hnízdo očima 55 osobností českého práva"
+title: "‚Chaotické, nesrozumitelné, poškozující.‘ Dění v kauze Čapí hnízdo očima 57 osobností českého práva"
 perex: "Aktuálně není v Česku politicky citlivější kauzy. Server iROZHLAS.cz proto požádal osobnosti právnického světa, aby nabídly svůj pohled na nejnovější dění v případu, který rozdělil odbornou veřejnost."
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
-Státní zástupce, který kauzu Čapí hnízdo dozoruje, změnil na případ právní názor. S takovou od minulého pondělí odráží dotazy novinářů mluvčí Městského státního zastupitelství v Praze Aleš Cimbala. Jaroslav Šaroch původně stíhání Babiše, jeho rodiny i spolupracovníků hájil jako důvodné. Co tedy jeho nynější tah znamená? A proč státní zastupitelství svůj postup jasně a srozumitelně nevysvětlí? 
+Státní zástupce, který kauzu Čapí hnízdo dozoruje, změnil na případ právní názor. S takovou od minulého pondělí odráží dotazy novinářů mluvčí Městského státního zastupitelství v Praze Aleš Cimbala. Jaroslav Šaroch původně stíhání Babiše, jeho rodiny i spolupracovníků hájil jako důvodné. Co tedy jeho nynější tah znamená? A proč státní zastupitelství svůj postup jasně a srozumitelně nevysvětlí?
+
 Server iROZHLAS.cz  v souvislosti s aktuálním vývojem položil českým osobnostem z oblasti justice následující dotazy:
 
 <embed>
@@ -14,7 +15,7 @@ Server iROZHLAS.cz  v souvislosti s aktuálním vývojem položil českým osobn
 </h4>
 </embed>
 
-Ve velké anketě server iROZHLAS.cz oslovil přes 130 osobnostní české justice. Výsledek? Sešla se necelá stovka reakcí, z čehož skutečnou odpověď zaslalo celkem 55 respondentů.
+Ve velké anketě server iROZHLAS.cz oslovil přes 130 osobnostní české justice. Výsledek? Sešla se necelá stovka reakcí, z čehož skutečnou odpověď zaslalo celkem 57 respondentů.
 
 [**Anketní odpovědi si můžete přečíst na konci textu**](#kotva)
 
@@ -24,7 +25,7 @@ Svůj komentář k ostře sledované kauze poskytla například ministryně spra
 
 Ta postup městského státního zastupitelství označila za „selhání, které otřáslo důvěryhodností výkonu spravedlnosti“. Podobně mluvil také soudce Josef Baxa, který serveru iROZHLAS.cz poskytl rozsáhlý rozhovor. „Obávám se, že opravdu významný výsledek toho všeho bude velký pokles důvěry v justici,“ řekl minulý týden s tím, že šlo o „hrubě nezvládnutou komunikaci“.
 
-Na tom, že jednání státního zastupitelství – které informovalo o konceptu rozhodnutí dozorujícího státního zástupce Jaroslava Šarocha, jež ovšem zatím není definitivní – bylo minimálně nešťastné, se shodli i některé další oslovení soudci. V tomto duchu odpovídal třeba bývalý ústavní soudce Stanislav Balík či soudce Nejvyššího správního soudu Karel Šimka. Podle něj Městské státní zastupitelství v Praze situaci podcenilo.
+Na tom, že jednání státního zastupitelství – které informovalo o konceptu rozhodnutí dozorujícího státního zástupce Jaroslava Šarocha, jež ovšem zatím není definitivní – bylo minimálně nešťastné, se shodli i někteří další oslovení soudci. V tomto duchu odpovídal třeba bývalý ústavní soudce Stanislav Balík či soudce Nejvyššího správního soudu Karel Šimka. Podle něj Městské státní zastupitelství v Praze situaci podcenilo.
 „Je to veřejně sledovaný případ, v němž je komunikace klíčová věc. Na tom se tvoří důvěryhodnost státního zastupitelství. Bohužel to samozřejmě má dopad na důvěryhodnost české justice. Justice musí tyto typy případů komunikačně zvládnout. Nesmí podlehnout tlakům ani ulice, ani vlády a ani nikoho dalšího,“ řekl Šimka.
 
 <embed><img style="width: 100%;" src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/capi_hnizdo_12_181101-173514_mda.jpg?itok=lrSir06P">
@@ -42,7 +43,7 @@ Smířlivější byla například soudkyně Městského soudu v Praze a preziden
 <p><a href="http://irozhl.as/7eN">Otázky a odpovědi: půjde Babiš a jeho rodina před soud?</a></p>
 </right>
 
-Výtky na způsob komunikace, ale i únik informací ovšem míří také ze strany šéfky Vrchního státního zastupitelství v Praze Lenky Bradáčové, jejíž úřad průběh kauzy Čapí hnízdo kontroloval. „Bez ohledu na silný mediální tlak a danou situaci komunikace měla být srozumitelnější a přesvědčivější,“ napsala.
+Výtky na způsob komunikace, ale i únik informací ovšem přichází také ze strany šéfky Vrchního státního zastupitelství v Praze Lenky Bradáčové, jejíž úřad průběh kauzy Čapí hnízdo kontroloval. „Bez ohledu na silný mediální tlak a danou situaci komunikace měla být srozumitelnější a přesvědčivější,“ napsala.
 
 Současně ale ocenila, že státní zastupitelství v krizové situaci reagovalo na uniklou informaci ohledně možného zastavení stíhání Babiše a jeho blízkých pravdivě. „Poté, kdy byl úřad konfrontován s uniklou interní informací, informoval veřejnost sice neobratně, ale pravdivě. Popírání informace by jistě nebylo správným krokem,“ pokračovala.
 
@@ -62,9 +63,9 @@ Stejný názor zastává také advokátka Zuzana Smítková: „Informace, jež 
 
 ## Bez komentáře
 
-Redakce v anketě oslovila desítky zástupců tuzemské justice. Komentář odmítl například předseda Ústavního soudu Pavel Rychetský. „Nepovažuji za vhodné se v této věci jakkoliv vyjadřovat,“ řekl. Podobně zareagovali i jeho kolegové s tím, že by se případem v budoucnu mohli zabývat.
+Redakce v anketě oslovila desítky zástupců tuzemské justice. Komentář odmítl například předseda Ústavního soudu Pavel Rychetský. „Nepovažuji za vhodné se v této věci jakkoliv vyjadřovat,“ řekl. Podobně zareagovali i jeho kolegové s tím, že by se případem v budoucnu mohli zabývat. Ze stejného důvodu odmítl odpovědět také nejvyšší státní zástupce Pavel Zeman.
 
-Ze stejného důvodu odmítl odpovědět také nejvyšší státní zástupce Pavel Zeman. A vyjadřovat se nechtěl ani bývalý ministr spravedlnosti Robert Pelikán. „Já už se k podobným věcem veřejně nevyjadřuji,“ napsal ve zprávě.
+Konkrétní odpověď nezaslal ani olomoucký vrchní státní zástupce Ivo Ištvan. Zdůvodnil to tím, že případ není v jeho působnosti. „Nepřísluší mi komentovat postup jiných státních zástupců než těch, kteří působí u Vrchního státního zastupitelství v Olomouci, nebo těch, nad kterými vrchní státní zastupitelství v Olomouci vykonává dohled, což není případ Městského státního zastupitelství v Praze,“ vysvětlil. A vyjadřovat se nechtěl třeba ani bývalý ministr spravedlnosti Robert Pelikán. „Já už se k podobným věcem veřejně nevyjadřuji,“ napsal ve zprávě.
 
 <embed><img style="width: 100%;" src="https://www.irozhlas.cz/sites/default/files/styles/zpravy_snowfall/public/uploader/vyznamenani_17_181029-011312_mda.jpg?itok=lTX9bjiN">
 <em>Monika Babišová a Andrej Babiš, foto: Michaela Danelová/iROZHLAS.cz</em>
@@ -79,6 +80,8 @@ Podobně server iROZHLAS.cz narazil i mezi některými advokáty, kteří koment
 Kauza Čapí hnízdo se posouvá do další fáze. Deník N minulé pondělí informoval, že státní zástupce Jaroslav Šaroch chce zastavit trestní stíhání všech šesti obviněných v dotační kauze Čapí hnízdo. Obvinění nyní čelí mimo jiné stávající premiér a šéf ANO Andrej Babiš a členové Babišovy rodiny – žena Monika, dcera Adriana Bobeková a švagr Martin Herodes.
 
 Nyní má spis na stole vedoucí státní zástupce Martin Erazím, který bude zkoumat důvodnost a zákonnost Šarochova kroku. To může trvat několik týdnů. „Musím se pečlivě zabývat důvody a vyhodnocením celého jeho postupu,“ uvedl pro Deník N své další kroky vůbec v prvním vyjádření Martin Erazím.
+
+Aktuální otázky redakce iROZHLAS.cz Erazím v pondělí zodpovědět nechtěl. „Nebudu to více komentovat, myslím, že dotazy, které jsem od vás dostal, byly v podobném duchu jako od Deníku N,“ uvedl pouze.
 
 <div id="kotva"></div>
 
