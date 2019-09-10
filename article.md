@@ -1,11 +1,11 @@
-title: "‚Chaotické, nesrozumitelné, poškozující.‘ Dění v kauze Čapí hnízdo očima 55 osobností české justice"
-perex: "Není větší kauzy, která by hýbala současnou politickou scénou v Česku. Řeč je o dění kolem Čapího hnízda, které minulý týden – po zprávě Deníku N, že se dozorující státní zástupce Jaroslav Šaroch chystá zastavit stíhání šestice obviněných v čele s premiérem Andrejem Babišem (ANO) – nabralo na obrátkách. Server iROZHLAS.cz proto oslovil významné zástupce tuzemské justice, aby přiblížili svůj pohled na politicky citlivý případ. Odpovědi soudců, státních zástupců, právníků, akademiků i veřejných funkcionářů přinášíme ve velké anketě."
+title: "‚Chaotické, nesrozumitelné, poškozující.‘ Dění v kauze Čapí hnízdo očima 55 osobností českého práva"
+perex: "Aktuálně není v Česku politicky citlivější kauzy. Server iROZHLAS.cz proto požádal osobnosti právnického světa, aby nabídly svůj pohled na nejnovější dění v případu, který rozdělil odbornou veřejnost."
 styles: []
 libraries: [] #jquery, d3, highcharts, datatables
 options: [noheader, nopic] #wide, noheader (, nopic)
 ---
-Státní zástupce, který kauzu Čapí hnízdo dozoruje, změnil na případ právní názor. S takovou od minulého pondělí odráží dotazy novinářů mluvčí Městského státního zastupitelství v Paze Aleš Cimbala. Jaroslav Šaroch původně stíhání Babiše, jeho rodiny i spolupracovníků hájil jako důvodné. Co tedy jeho nynější tah znamená? A proč státní zastupitelství svůj postup jasně a srozumitelně nevysvětlí? 
-Server iROZHLAS.cz se v souvislosti s aktuálním vývojem zeptal českých osobností z oblasti justice na následující dotazy:
+Státní zástupce, který kauzu Čapí hnízdo dozoruje, změnil na případ právní názor. S takovou od minulého pondělí odráží dotazy novinářů mluvčí Městského státního zastupitelství v Praze Aleš Cimbala. Jaroslav Šaroch původně stíhání Babiše, jeho rodiny i spolupracovníků hájil jako důvodné. Co tedy jeho nynější tah znamená? A proč státní zastupitelství svůj postup jasně a srozumitelně nevysvětlí? 
+Server iROZHLAS.cz  v souvislosti s aktuálním vývojem položil českým osobnostem z oblasti justice následující dotazy:
 
 <embed>
 <h4>
@@ -42,11 +42,11 @@ Smířlivější byla například soudkyně Městského soudu v Praze a preziden
 <p><a href="http://irozhl.as/7eN">Otázky a odpovědi: půjde Babiš a jeho rodina před soud?</a></p>
 </right>
 
-Výtky na způsob komunikace ale i únik informací ovšem míří také ze strany šéfky Vrchního státního zastupitelství v Praze Lenky Bradáčové, jejíž úřad průběh kauzy Čapí hnízdo kontroloval. „Bez ohledu na silný mediální tlak a danou situaci komunikace měla být srozumitelnější a přesvědčivější,“ napsala.
+Výtky na způsob komunikace, ale i únik informací ovšem míří také ze strany šéfky Vrchního státního zastupitelství v Praze Lenky Bradáčové, jejíž úřad průběh kauzy Čapí hnízdo kontroloval. „Bez ohledu na silný mediální tlak a danou situaci komunikace měla být srozumitelnější a přesvědčivější,“ napsala.
 
 Současně ale ocenila, že státní zastupitelství v krizové situaci reagovalo na uniklou informaci ohledně možného zastavení stíhání Babiše a jeho blízkých pravdivě. „Poté, kdy byl úřad konfrontován s uniklou interní informací, informoval veřejnost sice neobratně, ale pravdivě. Popírání informace by jistě nebylo správným krokem,“ pokračovala.
 
-V anketě odpovídala také ministryně spravedlnosti Marie Benešová (za ANO). Ta minulý týden Deníku N řekla, že postup považuje za nepochopitelný. Nyní měla dotazy na posun v politicky citlivé kauzy spíše již za vyřízené. „Co se mi nelíbilo v mediálním postupu městského státního zastupitelství, jsem již řekla. Rozhodně nebudu komentovat důkazní situaci, kterou neznám ani znát nemohu. Jak jistě víte, do živých kauz ministr vstupovat nemůže,“ napsala v SMS.
+V anketě odpovídala také ministryně spravedlnosti Marie Benešová (za ANO). Ta minulý týden Deníku N řekla, že postup považuje za nepochopitelný. Nyní měla dotazy na posun v politicky citlivé kauzy spíše již za vyřízené. „Co se mi nelíbilo v mediálním postupu městského státního zastupitelství, jsem již řekla. Rozhodně nebudu komentovat důkazní situaci, kterou neznám, ani znát nemohu. Jak jistě víte, do živých kauz ministr vstupovat nemůže,“ napsala v SMS.
 
 ## Veřejný soud
 
